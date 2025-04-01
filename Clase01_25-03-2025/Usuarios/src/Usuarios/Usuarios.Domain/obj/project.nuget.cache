@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XnWQwZtm5go=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tmisa\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01-25-03-2025\\ApiMinino\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tmisa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
