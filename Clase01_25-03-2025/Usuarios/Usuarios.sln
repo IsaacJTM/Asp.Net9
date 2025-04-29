@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Usuarios", "Usuarios", "{AF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuarios.Domain", "src\Usuarios\Usuarios.Domain\Usuarios.Domain.csproj", "{8917A659-9F3D-4808-A08E-F652BF5F6090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuarios.Application", "src\Usuarios\Usuarios.Application\Usuarios.Application.csproj", "{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,18 @@ Global
 		{8917A659-9F3D-4808-A08E-F652BF5F6090}.Release|x64.Build.0 = Release|Any CPU
 		{8917A659-9F3D-4808-A08E-F652BF5F6090}.Release|x86.ActiveCfg = Release|Any CPU
 		{8917A659-9F3D-4808-A08E-F652BF5F6090}.Release|x86.Build.0 = Release|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Debug|x64.Build.0 = Debug|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Debug|x86.Build.0 = Debug|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Release|x64.ActiveCfg = Release|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Release|x64.Build.0 = Release|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Release|x86.ActiveCfg = Release|Any CPU
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,5 +52,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AF47A1B6-4839-4CB1-8418-F4BC8A9AB6E4} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 		{8917A659-9F3D-4808-A08E-F652BF5F6090} = {AF47A1B6-4839-4CB1-8418-F4BC8A9AB6E4}
+		{DD4E55A9-A416-4FF3-9AE4-A781ECBAA9C7} = {AF47A1B6-4839-4CB1-8418-F4BC8A9AB6E4}
 	EndGlobalSection
 EndGlobal

@@ -1,12 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Usuarios.Domain.Abstractions;
 
-namespace Usuarios.Domain.Roles
-{
-    public class RolErrores
+namespace Usuarios.Domain.Roles;
+    public static class RolErrores
     {
-        
+        public static Error NoEncontrado = new
+        (
+            "RolErrores.NoEncontrado",
+            "El rol no fue encontrado"
+        );
     }
-}
