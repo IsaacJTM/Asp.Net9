@@ -1,7 +1,7 @@
 namespace Usuarios.Domain.Usuarios;
     public record Password
     {
-        public string Value {get;set;}
+        public string Value {get; init; }
         
         private Password (string value){
             Value = value;

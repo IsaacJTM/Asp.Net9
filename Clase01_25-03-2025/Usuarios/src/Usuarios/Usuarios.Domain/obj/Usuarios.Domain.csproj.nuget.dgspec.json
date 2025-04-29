@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tmisa\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01-25-03-2025\\ApiMinino\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj": {}
+    "C:\\Users\\Equipo\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01_25-03-2025\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tmisa\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01-25-03-2025\\ApiMinino\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj": {
+    "C:\\Users\\Equipo\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01_25-03-2025\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tmisa\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01-25-03-2025\\ApiMinino\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Equipo\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01_25-03-2025\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj",
         "projectName": "Usuarios.Domain",
-        "projectPath": "C:\\Users\\tmisa\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01-25-03-2025\\ApiMinino\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj",
-        "packagesPath": "C:\\Users\\tmisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tmisa\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01-25-03-2025\\ApiMinino\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Equipo\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01_25-03-2025\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj",
+        "packagesPath": "C:\\Users\\Equipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Equipo\\OneDrive\\Documentos\\Cursos\\CursoNet9\\Clase01_25-03-2025\\Usuarios\\src\\Usuarios\\Usuarios.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tmisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

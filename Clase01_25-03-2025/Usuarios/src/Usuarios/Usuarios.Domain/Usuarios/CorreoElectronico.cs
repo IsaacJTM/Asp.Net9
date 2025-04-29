@@ -3,9 +3,9 @@ using System.Text.RegularExpressions;
 using Usuarios.Domain.Abstractions;
 
 namespace Usuarios.Domain.Usuarios;
-    public class CorreoElectronico
+    public record CorreoElectronico
     {
-        public string Value { get; set;}
+        public string Value { get; init;}
 
         private CorreoElectronico (string value){
             Value = value;
@@ -14,7 +14,7 @@ namespace Usuarios.Domain.Usuarios;
         public static Result<CorreoElectronico> Create(string value){
 
             if(!EsCorreoValido(value)){
-                return Result.Failur<CorreoElectronico>();
+                return Result.Failur<CorreoElectronico>(UsuarioErrores.CorreoElectronicoInvalido);
             }
             return new CorreoElectronico(value);
         }
