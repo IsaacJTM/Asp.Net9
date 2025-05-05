@@ -1,0 +1,12 @@
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\bin\Debug\net9.0\Usuarios.Domain.deps.json
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\bin\Debug\net9.0\Usuarios.Domain.dll
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\bin\Debug\net9.0\Usuarios.Domain.pdb
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\obj\Debug\net9.0\Usuarios.Domain.csproj.AssemblyReference.cache
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\obj\Debug\net9.0\Usuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\obj\Debug\net9.0\Usuarios.Domain.AssemblyInfoInputs.cache
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\obj\Debug\net9.0\Usuarios.Domain.AssemblyInfo.cs
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\obj\Debug\net9.0\Usuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\obj\Debug\net9.0\Usuarios.Domain.dll
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\obj\Debug\net9.0\refint\Usuarios.Domain.dll
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\obj\Debug\net9.0\Usuarios.Domain.pdb
+C:\Users\tmisa\OneDrive\Documentos\Cursos\CursoNet9\Clase01-25-03-2025\ApiMinino\Usuarios\src\Usuarios\Usuarios.Domain\obj\Debug\net9.0\ref\Usuarios.Domain.dll
