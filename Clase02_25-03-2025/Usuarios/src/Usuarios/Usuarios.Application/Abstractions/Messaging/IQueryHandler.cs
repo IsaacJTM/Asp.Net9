@@ -1,12 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Usuarios.Application.Abstractions.Messaging
-{
-    public interface IQueryHandler
+namespace Usuarios.Application.Abstractions.Messaging;
+    public interface IQueryHandler<TQuery, TResponse> : IRequestHandler<TQuery,Result<TResponse>>
+    where TQuery : IQuery<TResponse>
     {
         
     }
-}

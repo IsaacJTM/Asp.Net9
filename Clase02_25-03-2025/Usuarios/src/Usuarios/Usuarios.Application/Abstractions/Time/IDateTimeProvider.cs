@@ -1,12 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Usuarios.Application.Abstractions.Time
-{
+namespace Usuarios.Application.Abstractions.Time;
     public interface IDateTimeProvider
     {
-        
+        DateTime CurrentTime {get;}
     }
-}
